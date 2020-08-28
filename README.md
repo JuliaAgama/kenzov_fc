@@ -1,2 +1,2 @@
 # kenzov_fc
-Kenzov officizl site. FC
+Kenzov official site. FC
